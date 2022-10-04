@@ -12,7 +12,9 @@
 ---
 
 ### :man_technologist: About Me :
-I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+Self-motivated, curious, driven and lifelong learner passionate about learning about new fields and technologies. have a decent knowledge of machine learning and deep learning, and a basic understanding of data science and AI, have basic knowledge in the IT support role, Self-taught full-stack developer, have a decent knowledge of database administration, web security, testing, deployment, and much more. Above-average Pythonist. Interested in Artificial Intelligence, Web development, and other fields. Hoping to add a new idea to these fields.
+
+
 - 🌱 I’m currently learning **Flask and deep-learning specialization**
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
